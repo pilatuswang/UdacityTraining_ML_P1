@@ -1,4 +1,5 @@
-ReadMe for Project 1 
+ReadMe 
+-- for Project 1 
 
 Developer: Chen Wang
 
@@ -14,7 +15,7 @@ Files in folder:
 Description: The Jupytor notebook has the codes that helps answer the three questions of interest: if US software engineers have higher salary, higher career satisfaction, and higher job satisfaction. The answer is yes to all three questions based on the descriptive statistic from the data set. 
 
 About the Dataset: 
-Every year, Stack Overflow conducts survey of people on the site, covering various information like salary, career satisfaction, job satisfaction etc. 
+Stack Overflow conducts survey of software engineers, covering various information like salary, career satisfaction, job satisfaction etc. 
 
 Data: 
 The data has two files:
