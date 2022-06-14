@@ -6,7 +6,7 @@ Date: 6/14/2022
 
 Project: this is the first project “Write A Data Science Blog Post” for the “Data Scientist Nanodegree” in Udacity training. 
 
-File in folder: 
+Files in folder: 
 1.	Readme
 2.	Jupytor notebook
 3.	Data: survey_results_schema_P1
