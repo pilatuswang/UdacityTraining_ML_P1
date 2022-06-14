@@ -1,4 +1,4 @@
-#Header ReadMe for Project 1 
+ReadMe for Project 1 
 
 Developer: Chen Wang
 
@@ -22,4 +22,4 @@ The data has two files:
 2.	survey_results_schema_P1.csv 
 
 Acknowledgements: 
-3.	Data is directly taken from  https://www.kaggle.com/datasets/stackoverflow/so-survey-2017 Stack Overflow Developer Survey, 2017 | Kaggle 
+Data is taken from  https://www.kaggle.com/datasets/stackoverflow/so-survey-2017 
